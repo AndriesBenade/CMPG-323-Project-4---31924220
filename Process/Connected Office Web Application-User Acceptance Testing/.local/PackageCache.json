@@ -12,10 +12,10 @@
         "C:\\Users\\benad\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll",
         "C:\\Users\\benad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OOXML.dll",
         "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
         "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\benad\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
         "C:\\Users\\benad\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\benad\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
@@ -23,8 +23,8 @@
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib/net5.0-windows7.0/Microsoft.Vbe.Interop.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib/net5.0-windows7.0/Office.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib/net5.0-windows7.0/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib/net5.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib/net5.0-windows7.0/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib/net5.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib/net5.0-windows7.0/UiPath.Excel.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.platform\\22.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
@@ -39,8 +39,8 @@
       "Assemblies": [
         "C:\\Users\\benad\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
         "C:\\Users\\benad\\.nuget\\packages\\google.apis\\1.55.0\\lib/netstandard2.0/Google.Apis.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
         "C:\\Users\\benad\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
         "C:\\Users\\benad\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib/netstandard2.0/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\benad\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/netstandard2.0/Google.Apis.Core.dll",
         "C:\\Users\\benad\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/netstandard2.0/Google.Apis.Gmail.v1.dll",
@@ -118,8 +118,8 @@
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Diagnostics.dll",
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Management.dll",
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Utility.dll",
@@ -155,8 +155,8 @@
         "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Duplex.dll",
         "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Http.dll",
         "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib/netstandard2.0/System.ServiceModel.NetTcp.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
         "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.Primitives.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
         "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Security.dll",
         "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib/netstandard2.0/System.ServiceModel.Syndication.dll",
         "C:\\Users\\benad\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll",
@@ -183,8 +183,8 @@
         "C:\\Users\\benad\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib/net5.0-windows7.0/UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib/net5.0-windows7.0/UiPath.Testing.Activities.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib/net5.0-windows7.0/UiPath.Testing.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib/net5.0-windows7.0/UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib/net5.0-windows7.0/UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib/net5.0-windows7.0/UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0"
     },
@@ -214,19 +214,51 @@
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.CV.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib/net6.0-windows7.0/UiPath.Wizards.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib/net6.0-windows7.0/UiPath.Vision.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Database.Activities",
+        "Version": "1.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\benad\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\azure.identity\\1.3.0\\lib/netstandard2.0/Azure.Identity.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.data.sqlclient\\4.1.0\\runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.16.5\\lib/netcoreapp2.1/Microsoft.Identity.Client.Extensions.Msal.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.1\\lib/netstandard2.1/Oracle.ManagedDataAccess.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Data.Odbc.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\system.data.oledb\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Data.OleDb.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Data.ConnectionUI.Dialog.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Database.Activities.Design.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Database.Activities.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib/net5.0-windows7.0/UiPath.Database.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib/net5.0-windows7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll"
+      ],
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1"
     }
   ],
   "Conflicts": [],
@@ -276,6 +308,40 @@
         {
           "Item1": "System.Text.Encodings.Web",
           "Item2": "[4.7.2, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[4.6.0, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Extensions",
+          "Item2": "[4.5.2, )"
+        }
+      ]
+    },
+    "Azure.Identity": {
+      "Id": "Azure.Identity",
+      "Version": "1.3.0",
+      "Dependencies": [
+        {
+          "Item1": "Azure.Core",
+          "Item2": "[1.6.0, )"
+        },
+        {
+          "Item1": "Microsoft.Identity.Client",
+          "Item2": "[4.22.0, )"
+        },
+        {
+          "Item1": "Microsoft.Identity.Client.Extensions.Msal",
+          "Item2": "[2.16.5, )"
+        },
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.3, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.ProtectedData",
+          "Item2": "[4.5.0, )"
         },
         {
           "Item1": "System.Text.Json",
@@ -665,6 +731,81 @@
       "Version": "4.7.0",
       "Dependencies": []
     },
+    "Microsoft.Data.SqlClient": {
+      "Id": "Microsoft.Data.SqlClient",
+      "Version": "4.1.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Data.SqlClient.SNI.runtime",
+          "Item2": "[4.0.0, )"
+        },
+        {
+          "Item1": "Azure.Identity",
+          "Item2": "[1.3.0, )"
+        },
+        {
+          "Item1": "Microsoft.Identity.Client",
+          "Item2": "[4.22.0, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
+          "Item2": "[6.8.0, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.JsonWebTokens",
+          "Item2": "[6.8.0, )"
+        },
+        {
+          "Item1": "Microsoft.Win32.Registry",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Buffers",
+          "Item2": "[4.5.1, )"
+        },
+        {
+          "Item1": "System.Configuration.ConfigurationManager",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Diagnostics.DiagnosticSource",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.IO",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Caching",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Text.Encoding.CodePages",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Text.Encodings.Web",
+          "Item2": "[4.7.2, )"
+        },
+        {
+          "Item1": "System.Resources.ResourceManager",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Cng",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Security.Principal.Windows",
+          "Item2": "[5.0.0, )"
+        }
+      ]
+    },
+    "Microsoft.Data.SqlClient.SNI.runtime": {
+      "Id": "Microsoft.Data.SqlClient.SNI.runtime",
+      "Version": "4.0.0",
+      "Dependencies": []
+    },
     "Microsoft.Extensions.Configuration": {
       "Id": "Microsoft.Extensions.Configuration",
       "Version": "3.1.6",
@@ -805,6 +946,20 @@
       "Id": "Microsoft.Identity.Client",
       "Version": "4.35.1",
       "Dependencies": []
+    },
+    "Microsoft.Identity.Client.Extensions.Msal": {
+      "Id": "Microsoft.Identity.Client.Extensions.Msal",
+      "Version": "2.16.5",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Identity.Client",
+          "Item2": "[4.22.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.ProtectedData",
+          "Item2": "[4.5.0, )"
+        }
+      ]
     },
     "Microsoft.IdentityModel.JsonWebTokens": {
       "Id": "Microsoft.IdentityModel.JsonWebTokens",
@@ -1761,6 +1916,28 @@
         }
       ]
     },
+    "Oracle.ManagedDataAccess.Core": {
+      "Id": "Oracle.ManagedDataAccess.Core",
+      "Version": "3.21.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Diagnostics.PerformanceCounter",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "System.DirectoryServices",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "System.DirectoryServices.Protocols",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[4.7.1, )"
+        }
+      ]
+    },
     "Polly": {
       "Id": "Polly",
       "Version": "7.1.0",
@@ -2232,7 +2409,7 @@
     },
     "System.Diagnostics.DiagnosticSource": {
       "Id": "System.Diagnostics.DiagnosticSource",
-      "Version": "4.7.1",
+      "Version": "5.0.0",
       "Dependencies": []
     },
     "System.Diagnostics.EventLog": {
@@ -3256,6 +3433,11 @@
           "Item2": "[4.3.0, )"
         }
       ]
+    },
+    "System.Resources.Extensions": {
+      "Id": "System.Resources.Extensions",
+      "Version": "5.0.0",
+      "Dependencies": []
     },
     "System.Resources.ResourceManager": {
       "Id": "System.Resources.ResourceManager",
@@ -4328,6 +4510,32 @@
         }
       ]
     },
+    "UiPath.Database.Activities": {
+      "Id": "UiPath.Database.Activities",
+      "Version": "1.7.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Data.SqlClient",
+          "Item2": "[4.1.0, )"
+        },
+        {
+          "Item1": "Oracle.ManagedDataAccess.Core",
+          "Item2": "[3.21.1, )"
+        },
+        {
+          "Item1": "System.Data.Odbc",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Data.OleDb",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Resources.Extensions",
+          "Item2": "[5.0.0, )"
+        }
+      ]
+    },
     "UiPath.Excel.Activities": {
       "Id": "UiPath.Excel.Activities",
       "Version": "2.16.0",
@@ -4729,6 +4937,16 @@
     },
     {
       "Package": {
+        "Id": "Azure.Identity",
+        "Version": "1.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\benad\\.nuget\\packages\\azure.identity\\1.3.0\\lib\\netstandard2.0\\Azure.Identity.dll"
+      ],
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\azure.identity\\1.3.0"
+    },
+    {
+      "Package": {
         "Id": "ClosedXML",
         "Version": "0.95.4"
       },
@@ -4783,8 +5001,8 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
-        "C:\\Users\\benad\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\benad\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\google.apis.auth\\1.55.0"
     },
@@ -5028,6 +5246,24 @@
     },
     {
       "Package": {
+        "Id": "Microsoft.Data.SqlClient",
+        "Version": "4.1.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.data.sqlclient\\4.1.0\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+      ],
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\microsoft.data.sqlclient\\4.1.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Data.SqlClient.SNI.runtime",
+        "Version": "4.0.0"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\4.0.0"
+    },
+    {
+      "Package": {
         "Id": "Microsoft.Extensions.Configuration",
         "Version": "3.1.6"
       },
@@ -5155,6 +5391,16 @@
         "C:\\Users\\benad\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib\\netcoreapp2.1\\Microsoft.Identity.Client.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\microsoft.identity.client\\4.35.1"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Identity.Client.Extensions.Msal",
+        "Version": "2.16.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\benad\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.16.5\\lib\\netcoreapp2.1\\Microsoft.Identity.Client.Extensions.Msal.dll"
+      ],
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.16.5"
     },
     {
       "Package": {
@@ -5594,12 +5840,22 @@
         "Version": "2.5.5"
       },
       "Assemblies": [
-        "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll",
         "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OOXML.dll",
         "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\npoi\\2.5.5"
+    },
+    {
+      "Package": {
+        "Id": "Oracle.ManagedDataAccess.Core",
+        "Version": "3.21.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\benad\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.1\\lib\\netstandard2.1\\Oracle.ManagedDataAccess.dll"
+      ],
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.1"
     },
     {
       "Package": {
@@ -5998,12 +6254,12 @@
     {
       "Package": {
         "Id": "System.Diagnostics.DiagnosticSource",
-        "Version": "4.7.1"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\benad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\lib\\netstandard1.3\\System.Diagnostics.DiagnosticSource.dll"
+        "C:\\Users\\benad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\lib\\net5.0\\System.Diagnostics.DiagnosticSource.dll"
       ],
-      "Path": "C:\\Users\\benad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1"
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0"
     },
     {
       "Package": {
@@ -6447,6 +6703,16 @@
     },
     {
       "Package": {
+        "Id": "System.Resources.Extensions",
+        "Version": "5.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\benad\\.nuget\\packages\\system.resources.extensions\\5.0.0\\lib\\netstandard2.0\\System.Resources.Extensions.dll"
+      ],
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\system.resources.extensions\\5.0.0"
+    },
+    {
+      "Package": {
         "Id": "System.Resources.ResourceManager",
         "Version": "4.3.0"
       },
@@ -6703,8 +6969,8 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll"
+        "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0"
     },
@@ -6932,6 +7198,19 @@
     },
     {
       "Package": {
+        "Id": "UiPath.Database.Activities",
+        "Version": "1.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Data.ConnectionUI.Dialog.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Database.Activities.Design.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Database.Activities.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1\\lib\\net5.0-windows7.0\\UiPath.Database.dll"
+      ],
+      "Path": "C:\\Users\\benad\\.nuget\\packages\\uipath.database.activities\\1.7.1"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.16.0"
       },
@@ -6940,8 +7219,8 @@
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib\\net5.0-windows7.0\\Microsoft.Vbe.Interop.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib\\net5.0-windows7.0\\Office.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib\\net5.0-windows7.0\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib\\net5.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib\\net5.0-windows7.0\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib\\net5.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0\\lib\\net5.0-windows7.0\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\uipath.excel.activities\\2.16.0"
@@ -7035,8 +7314,8 @@
       "Assemblies": [
         "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib\\net5.0-windows7.0\\UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib\\net5.0-windows7.0\\UiPath.Testing.Activities.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib\\net5.0-windows7.0\\UiPath.Testing.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib\\net5.0-windows7.0\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib\\net5.0-windows7.0\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0\\lib\\net5.0-windows7.0\\UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\uipath.testing.activities\\22.10.0"
     },
@@ -7050,11 +7329,11 @@
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1\\lib\\net6.0-windows7.0\\UiPath.Wizards.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.1"
@@ -7067,9 +7346,9 @@
       "Assemblies": [
         "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
         "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\benad\\.nuget\\packages\\uipath.vision\\3.6.0"
     }
