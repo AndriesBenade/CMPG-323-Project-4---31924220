@@ -1,3 +1,16 @@
 {
-  "Tags": []
+  "Tags": [
+    {
+      "Key": "Internet Of Things"
+    },
+    {
+      "Key": "Connected Office"
+    },
+    {
+      "Key": "C-Sharp"
+    },
+    {
+      "Key": "UiPath"
+    }
+  ]
 }
